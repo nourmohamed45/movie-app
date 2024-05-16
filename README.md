@@ -6,7 +6,7 @@
 
 This is a repository for a React Anime Website: React + Vite
 
-[Perview](https://654e1d6d96c0d774f6ff480b--timely-squirrel-d6cd04.netlify.app/)
+[Perview](https://6645892436da67442ec3e0d6--ephemeral-cannoli-e3b5fa.netlify.app/)
 
 Key Features:
 
